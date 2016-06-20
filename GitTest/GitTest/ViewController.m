@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    // 看看试试可以吗
+    //
+    //不知道能不能成功
+    
 }
 
 - (void)didReceiveMemoryWarning {
